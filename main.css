@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: url("background.png") no-repeat fixed top right;
+    background-size: cover;
+    background-color: skyblue;
+}
+
+header > h1{
+    text-align: center;
+    color:black;
+}
+
+#container{width: 900px;
+    margin:0 auto;}
+
+
