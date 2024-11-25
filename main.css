@@ -9,13 +9,18 @@ body{
     background-size: cover;
     background-color: skyblue;
 }
+#container{width: 900px;
+    margin:0 auto;}
 
-header > h1{
+header{
     text-align: center;
     color:black;
 }
 
-#container{width: 900px;
-    margin:0 auto;}
+h2{
+    text-align: left;
+}
 
-
+h3{
+    text-align: left;
+}
